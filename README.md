@@ -6,3 +6,6 @@ environments.
 
 Simply add `'@bpanel/simple-mining'` to your pluginsConfig.js `plugins`
 array, and refresh your bPanel!
+
+
+![screenshot](https://github.com/bpanel-org/simple-mining/blob/master/screenshot.png "simple mining screenshot")
