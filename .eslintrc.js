@@ -3,7 +3,8 @@ module.exports = {
   plugins: ['prettier', 'react'],
   env: {
     node: true,
-    es6: true
+    es6: true,
+    browser: true
   },
   overrides: [
     {
@@ -31,7 +32,6 @@ module.exports = {
   extends: [
     'prettier',
     'eslint:recommended',
-    'plugin:react/recommended',
-    'plugin:import/errors'
+    'plugin:react/recommended'
   ]
 };
