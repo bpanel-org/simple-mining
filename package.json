@@ -39,7 +39,7 @@
   },
   "peerDependencies": {
     "@bpanel/bpanel-ui": "^0.0.7",
-    "@bpanel/bpanel-utils": "*",
+    "@bpanel/bpanel-utils": "^0.1.0",
     "bcoin": "github:bcoin-org/bcoin",
     "react": "^16.3.0",
     "prop-types": "^15.6.0"
